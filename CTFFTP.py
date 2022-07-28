@@ -33,3 +33,5 @@ while True:
             print(p.data.data.binary_value)
         except AttributeError:
             pass
+        
+print(banner)
